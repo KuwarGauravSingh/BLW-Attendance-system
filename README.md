@@ -75,4 +75,4 @@ License:
 
 This project is licensed under the MIT License.
 
-This `README.md` file includes a description of the project, its features, the technologies used, setup instructions, and guidelines for contributing. You can customize the logo URL and repository URL to match your actual project details.
+
